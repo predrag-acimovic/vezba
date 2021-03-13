@@ -48,6 +48,7 @@ p {
   font-weight: bold;
   margin: 0 1rem;
   cursor: pointer;
+  outline: none;
 }
 
 .prev-btn:hover {
@@ -71,9 +72,12 @@ p {
   cursor: pointer;
   font-weight: bold;
   box-shadow: 3px 3px 10px 0px black;
+  outline: none;
 }
 .random-btn:hover {
   background-color: white;
   color: red;
-  box-shadow: 0px 0px 10px 0px black;
+}
+.button-container {
+  border-style: none;
 }
