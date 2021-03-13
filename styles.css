@@ -18,8 +18,9 @@ body {
   justify-content: center;
   flex-direction: column;
   box-shadow: 7px 7px 20px 0px black;
-  width: 40%;
-  height: 70%;
+  width: 30%;
+  height: 75%;
+  border-radius: 10px;
 }
 .card-container {
   width: 70%;
@@ -35,7 +36,7 @@ p {
 }
 
 .person-info {
-  padding: 0 2rem;
+  padding: 0 1rem;
   text-align: center;
   margin-bottom: 2rem;
 }
